@@ -14,26 +14,26 @@ The script takes daily OPEN-High-Low-Close from NSE website using the library NS
 
 NOTE: Whenever you see a signal on a stock, you should read about that strategy from the book and then you will have a higher probability of going right and then guessing blindly.
 
-##A. Expansion breakouts
+## A. Expansion breakouts
 
 Buy:
 1) Today is a two month high
 2) Today’s range must be the largest daily range in the last 9 days
 
-##B. 1–2–3 Pullbacks (very effective strategy)
+## B. 1–2–3 Pullbacks (very effective strategy)
 
 Buy:
 1) 14 day ADX less than 30 
 2) +DI greater than -DI
 3) Last 3 days should have 3 consecutive lower lows
 
-##C. Expansion pivots
+## C. Expansion pivots
 
 Buy:
 1) Today’s range is greater than the past 9 days range
 2) Either yesterday or today the stock is at or below the 50-day moving average.
 
-##D. Boomer
+## D. Boomer
 
 Buy:
 1) ADX greater than 30, +DI greater than -DI
