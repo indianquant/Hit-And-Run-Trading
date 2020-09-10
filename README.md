@@ -41,4 +41,4 @@ Buy:
 
 You can further read about the strategies from the book.
 
-Note: Don't blindly jump into the trade using the signals given. Always backtest such strategies on the past data and then only take an educated decision.
+### Note: Don't blindly jump into the trade using the signals given. Always backtest such strategies on the past data and then only take an educated decision.
